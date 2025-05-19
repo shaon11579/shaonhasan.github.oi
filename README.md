@@ -3,12 +3,12 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D.,  | The University of T							       		
-- M.S., 	| The University of Texas at Dallas (_December 2019_)	 			        		
+- Ph.D., Apllied Stat  | The University of Memphis 							       		
+- M.S., Information Systems	| The University of Memphis (_December 2019_)	 			        		
 - B.S.,  | The University of Texas at Dallas (_May 2017_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+** NIH/NCATS and Axle 
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
