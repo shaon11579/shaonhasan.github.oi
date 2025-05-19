@@ -5,7 +5,7 @@
 ## Education
 - Ph.D., Apllied Stat  | The University of Memphis 							       		
 - M.S., Information Systems	| The University of Memphis (_December 2019_)	 			        		
-- B.S.,  | The University of Texas at Dallas (_May 2017_)
+- B.S.,  | The University o
 
 ## Work Experience
 ** NIH/NCATS and Axle 
