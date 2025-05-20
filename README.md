@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., Apllied Stat  | The University of Memphis 							       		
+- Ph.D., Applied Statistics/ML  | The University of Memphis 							       		
 - M.S., Information Systems	| The University of Memphis (_December 2019_)	 			        		
 - B.S.,  | The University o
 
